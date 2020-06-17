@@ -1,0 +1,10 @@
+[package]
+name = "kerl_address_generator"
+version = "0.1.0"
+authors = ["Thoralf"]
+edition = "2018"
+
+[dependencies]
+bee-crypto = { git = "https://github.com/Alex6323/bee-p.git"  }
+bee-signing = { git = "https://github.com/Alex6323/bee-p.git"  }
+bee-ternary = { git = "https://github.com/Alex6323/bee-p.git"  }
